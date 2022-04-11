@@ -1,0 +1,25 @@
+.footer ul {
+    display: flex;
+    list-style-type: none;
+    gap: 80px;
+    margin-left: 160px;
+}
+
+.footer ul img {
+    width: 200px;
+    margin-left: -20px;
+    margin-top: 50px;
+}
+
+.footer ul h2 {
+    color: #1F2434;
+    font-family: "Roboto";
+    margin-top: -10px;
+}
+
+.footer ul p {
+    width: 150px;
+    font-family: "Roboto";
+    color: grey;
+    margin-top: -10px;
+}

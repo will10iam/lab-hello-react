@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1F2434;
+    padding: 10px;
+}
+
+.nav img {
+    margin-left: 120px;
+    margin-right: 50px; 
+    margin-top: 20px;
+    width: 80px;
+    
+}
